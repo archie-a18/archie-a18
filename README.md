@@ -1,6 +1,6 @@
 ### 👋Hi, I am Archie Agarwal from IIT Roorkee
 
-- 😎 I'm also a web developer with a decent experience of variuos projects.
+- 😎 I'm a web developer with a decent experience of variuos projects.
 - 🌱 I’m currently learning AI and ML.
 - 📫 How to reach me archieagarwal18@gmail.com
 - 📫 How to reach me https://www.linkedin.com/in/archie-ag1804
